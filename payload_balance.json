@@ -1,0 +1,10 @@
+{
+  "transactionReference": "Balance Enquiry",
+  "accounts": [
+    {
+      "accountNumber": "7471178032",
+      "accountCurrency": "THB",
+      "accountType": "S"
+    }
+  ]
+}
