@@ -1,10 +1,10 @@
 {
  "transactionReference": "Payment 2020",
- "purposeCode": "OTHR",
+ "purposeCode": "04",
  "endToEndId": "Payment 1502",
  "originatorDetails": {
    "account": {
-	"accountNumber": "7471178032",
+	"accountNumber": "8241654494",
 	"accountCurrency": "THB",
  	"accountType": "S"
     }
@@ -12,16 +12,16 @@
 "receiverDetails": {
    "accountName": "TEST1",
    "account": { 
-	"accountNumber": "7473065650",
+	"accountNumber": "513210760",
 	"accountCurrency": "THB",
   	"accountType": ""
 	},
-	"bot": "024",
+	"bot": "004",
 	"proxyType": "",
 	"proxyValue": ""
 },
 "paymentAmount": {
 "currency": "THB",
-"amount": 999.88
+"amount": 200000.88
 }
 }
